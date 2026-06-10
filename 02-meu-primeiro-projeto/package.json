@@ -1,0 +1,16 @@
+{
+  "name": "meu-primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Primeiros contatos com node.js",
+  "license": "ISC",
+  "keywords": [
+    "Primeiro projeto",
+    "Nilsen Miotto"
+  ],
+  "author": "Nilsen Miotto",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
