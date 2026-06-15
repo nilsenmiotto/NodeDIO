@@ -1,0 +1,15 @@
+{
+  "name": "07-variaveis-de-ambiente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prebuild": "npm install",
+    "start:dev": "node --env-file=.env src/index.js",
+    "start:watch": "node --watch --env-file=.env src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
